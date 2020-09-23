@@ -7,3 +7,5 @@ pip3 install requirements.txt
 
 2、运行程序
 python3 get_coin.py
+
+运行结果见result.png
